@@ -18,7 +18,7 @@ description: >
     Soy candles are made from soybeans, a renewable resource, and burn cleaner with fewer harmful toxins and soot. This makes them a healthier option, especially for people with allergies or respiratory sensitivities.
     </p>
     <p>
-    While this is a heavily debated topic, it's important to refer to scientific and medical evidence as much as possible. Several <a href="https://portal.nifa.usda.gov/web/crisprojectpages/0206030-soybean-candles-for-healthy-life-and-well-being.html" target="_blank">USDA studies</a> demonstrate that soy (and plant-based) wax emits negligible soot and toxic emissions compared to paraffin wax. While all candles produce the by-products of combustion, the amounts are nearly insignificant, especially when used in well ventilated indoor spaces.
+    While this is a heavily debated topic, it's important to refer to scientific and medical evidence as much as possible. Several <a href="https://portal.nifa.usda.gov/web/crisprojectpages/0206030-soybean-candles-for-healthy-life-and-well-being.html" target="_blank">USDA studies</a> demonstrate that soy (and plant-based) wax emits negligible soot and toxic emissions compared to paraffin wax. However, to date, no peer-reviewed scientific study has collected emissions data that has proven to be harmful to human health. While all candles produce by-products of combustion, the amounts are nearly insignificant, especially when used in well ventilated indoor spaces.
     </p>
     <h4>Key safety tips:</h4>
     <ul>
