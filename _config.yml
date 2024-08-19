@@ -16,6 +16,8 @@ exclude:
   - "_posts/README.md"
   - "*.js"
   - "*.json"
+  - "*.psd"
+  - "*.ai"
   - "assets/images/favicon/*.webmanifest"
   - "assets/images/favicon/*.md"
   - "assets/images/favicon/*.html"
@@ -28,6 +30,11 @@ plugins:
 # Sass configuration
 sass:
   sass_dir: _scss
+
+# Collections
+collections_dir: collections
+
+excerpt_separator: <!--excerpt-->
 
 # Information for deploy
 baseurl: ""
